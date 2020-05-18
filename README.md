@@ -1,3 +1,5 @@
+# Development has been moved to https://github.com/mermaid-js/mermaid-cli
+
 ![Join our Slack!](https://img.shields.io/static/v1?message=join%20chat&color=9cf&logo=slack&label=slack)
 
 # Contributors are welome
